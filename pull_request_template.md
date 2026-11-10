@@ -7,6 +7,8 @@
   - [ ] Security / Dependency Update
   - [ ] Major Infrastructure Change *(Requires Major Change Register entry)*
 
+## Screenshots (If applicable)
+
 ---
 
 ## 🔒 ISO 27001 Security Checklist
